@@ -5,6 +5,11 @@
 [![License](https://img.shields.io/cocoapods/l/JLTreeMenu.svg?style=flat)](http://cocoapods.org/pods/JLTreeMenu)
 [![Platform](https://img.shields.io/cocoapods/p/JLTreeMenu.svg?style=flat)](http://cocoapods.org/pods/JLTreeMenu)
 
+## Screen Shots
+
+#### Pop
+<img src="https://github.com/JulianSong/JLTreeMenu/blob/master/Example/screenshots/screenshot1.gif" width="375" height="667" />
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.

@@ -1,0 +1,16 @@
+PODS:
+  - JLTreeMenu (0.1.0)
+
+DEPENDENCIES:
+  - JLTreeMenu (from `../`)
+
+EXTERNAL SOURCES:
+  JLTreeMenu:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JLTreeMenu: d05bea71ba5cebd1d667377ae8d07f9c79e3ddfd
+
+PODFILE CHECKSUM: 3ee92d6be15d4fa3e2044f8c4a493eefd22b231c
+
+COCOAPODS: 1.0.0.beta.3

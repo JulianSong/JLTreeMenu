@@ -7,7 +7,8 @@
 //
 
 @import UIKit;
+#import <JLTreeMenu/JLTreeMenu.h>
 
-@interface JLViewController : UIViewController
+@interface JLViewController : JLTreeViewController
 
 @end

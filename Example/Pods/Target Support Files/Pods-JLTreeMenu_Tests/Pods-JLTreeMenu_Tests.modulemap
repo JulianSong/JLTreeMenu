@@ -1,0 +1,6 @@
+framework module Pods_JLTreeMenu_Tests {
+  umbrella header "Pods-JLTreeMenu_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
